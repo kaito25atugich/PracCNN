@@ -1,0 +1,204 @@
+#### epoch 1 ##### 
+             train loss: 0.009304, train accuracy: 78%
+#### epoch 2 ##### 
+             train loss: 0.006450, train accuracy: 85%
+#### epoch 3 ##### 
+             train loss: 0.005667, train accuracy: 87%
+#### epoch 4 ##### 
+             train loss: 0.005124, train accuracy: 88%
+#### epoch 5 ##### 
+             train loss: 0.004846, train accuracy: 89%
+#### epoch 6 ##### 
+             train loss: 0.004609, train accuracy: 89%
+#### epoch 7 ##### 
+             train loss: 0.004356, train accuracy: 90%
+#### epoch 8 ##### 
+             train loss: 0.004215, train accuracy: 90%
+#### epoch 9 ##### 
+             train loss: 0.004060, train accuracy: 90%
+#### epoch 10 ##### 
+             train loss: 0.003935, train accuracy: 91%
+#### epoch 11 ##### 
+             train loss: 0.003877, train accuracy: 91%
+#### epoch 12 ##### 
+             train loss: 0.003791, train accuracy: 91%
+#### epoch 13 ##### 
+             train loss: 0.003670, train accuracy: 91%
+#### epoch 14 ##### 
+             train loss: 0.003569, train accuracy: 91%
+#### epoch 15 ##### 
+             train loss: 0.003514, train accuracy: 92%
+#### epoch 16 ##### 
+             train loss: 0.003473, train accuracy: 92%
+#### epoch 17 ##### 
+             train loss: 0.003396, train accuracy: 92%
+#### epoch 18 ##### 
+             train loss: 0.003377, train accuracy: 92%
+#### epoch 19 ##### 
+             train loss: 0.003317, train accuracy: 92%
+#### epoch 20 ##### 
+             train loss: 0.003303, train accuracy: 92%
+#### epoch 21 ##### 
+             train loss: 0.003210, train accuracy: 92%
+#### epoch 22 ##### 
+             train loss: 0.003173, train accuracy: 92%
+#### epoch 23 ##### 
+             train loss: 0.003164, train accuracy: 92%
+#### epoch 24 ##### 
+             train loss: 0.003127, train accuracy: 92%
+#### epoch 25 ##### 
+             train loss: 0.003078, train accuracy: 93%
+#### epoch 26 ##### 
+             train loss: 0.002985, train accuracy: 93%
+#### epoch 27 ##### 
+             train loss: 0.003009, train accuracy: 93%
+#### epoch 28 ##### 
+             train loss: 0.002991, train accuracy: 93%
+#### epoch 29 ##### 
+             train loss: 0.002982, train accuracy: 93%
+#### epoch 30 ##### 
+             train loss: 0.002850, train accuracy: 93%
+#### epoch 31 ##### 
+             train loss: 0.002857, train accuracy: 93%
+#### epoch 32 ##### 
+             train loss: 0.002898, train accuracy: 93%
+#### epoch 33 ##### 
+             train loss: 0.002835, train accuracy: 93%
+#### epoch 34 ##### 
+             train loss: 0.002763, train accuracy: 93%
+#### epoch 35 ##### 
+             train loss: 0.002776, train accuracy: 93%
+#### epoch 36 ##### 
+             train loss: 0.002770, train accuracy: 93%
+#### epoch 37 ##### 
+             train loss: 0.002738, train accuracy: 93%
+#### epoch 38 ##### 
+             train loss: 0.002682, train accuracy: 93%
+#### epoch 39 ##### 
+             train loss: 0.002649, train accuracy: 94%
+#### epoch 40 ##### 
+             train loss: 0.002649, train accuracy: 94%
+#### epoch 41 ##### 
+             train loss: 0.002634, train accuracy: 94%
+#### epoch 42 ##### 
+             train loss: 0.002595, train accuracy: 94%
+#### epoch 43 ##### 
+             train loss: 0.002602, train accuracy: 94%
+#### epoch 44 ##### 
+             train loss: 0.002589, train accuracy: 94%
+#### epoch 45 ##### 
+             train loss: 0.002557, train accuracy: 94%
+#### epoch 46 ##### 
+             train loss: 0.002537, train accuracy: 94%
+#### epoch 47 ##### 
+             train loss: 0.002582, train accuracy: 94%
+#### epoch 48 ##### 
+             train loss: 0.002514, train accuracy: 94%
+#### epoch 49 ##### 
+             train loss: 0.002489, train accuracy: 94%
+#### epoch 50 ##### 
+             train loss: 0.002523, train accuracy: 94%
+train end. time 377.1161251229987 (s)
+#### epoch 1 ##### 
+             test loss: 0.003501, test accuracy: 93%
+#### epoch 2 ##### 
+             test loss: 0.003417, test accuracy: 93%
+#### epoch 3 ##### 
+             test loss: 0.003425, test accuracy: 93%
+#### epoch 4 ##### 
+             test loss: 0.003436, test accuracy: 93%
+#### epoch 5 ##### 
+             test loss: 0.003415, test accuracy: 93%
+#### epoch 6 ##### 
+             test loss: 0.003424, test accuracy: 93%
+#### epoch 7 ##### 
+             test loss: 0.003418, test accuracy: 93%
+#### epoch 8 ##### 
+             test loss: 0.003415, test accuracy: 93%
+#### epoch 9 ##### 
+             test loss: 0.003428, test accuracy: 93%
+#### epoch 10 ##### 
+             test loss: 0.003438, test accuracy: 93%
+#### epoch 11 ##### 
+             test loss: 0.003425, test accuracy: 93%
+#### epoch 12 ##### 
+             test loss: 0.003416, test accuracy: 93%
+#### epoch 13 ##### 
+             test loss: 0.003439, test accuracy: 93%
+#### epoch 14 ##### 
+             test loss: 0.003434, test accuracy: 93%
+#### epoch 15 ##### 
+             test loss: 0.003461, test accuracy: 93%
+#### epoch 16 ##### 
+             test loss: 0.003445, test accuracy: 93%
+#### epoch 17 ##### 
+             test loss: 0.003437, test accuracy: 93%
+#### epoch 18 ##### 
+             test loss: 0.003488, test accuracy: 93%
+#### epoch 19 ##### 
+             test loss: 0.003440, test accuracy: 93%
+#### epoch 20 ##### 
+             test loss: 0.003421, test accuracy: 93%
+#### epoch 21 ##### 
+             test loss: 0.003422, test accuracy: 93%
+#### epoch 22 ##### 
+             test loss: 0.003442, test accuracy: 93%
+#### epoch 23 ##### 
+             test loss: 0.003435, test accuracy: 93%
+#### epoch 24 ##### 
+             test loss: 0.003446, test accuracy: 93%
+#### epoch 25 ##### 
+             test loss: 0.003421, test accuracy: 93%
+#### epoch 26 ##### 
+             test loss: 0.003421, test accuracy: 93%
+#### epoch 27 ##### 
+             test loss: 0.003418, test accuracy: 93%
+#### epoch 28 ##### 
+             test loss: 0.003422, test accuracy: 93%
+#### epoch 29 ##### 
+             test loss: 0.003422, test accuracy: 93%
+#### epoch 30 ##### 
+             test loss: 0.003435, test accuracy: 93%
+#### epoch 31 ##### 
+             test loss: 0.003426, test accuracy: 93%
+#### epoch 32 ##### 
+             test loss: 0.003429, test accuracy: 93%
+#### epoch 33 ##### 
+             test loss: 0.003418, test accuracy: 93%
+#### epoch 34 ##### 
+             test loss: 0.003422, test accuracy: 93%
+#### epoch 35 ##### 
+             test loss: 0.003453, test accuracy: 93%
+#### epoch 36 ##### 
+             test loss: 0.003423, test accuracy: 93%
+#### epoch 37 ##### 
+             test loss: 0.003419, test accuracy: 93%
+#### epoch 38 ##### 
+             test loss: 0.003430, test accuracy: 93%
+#### epoch 39 ##### 
+             test loss: 0.003422, test accuracy: 93%
+#### epoch 40 ##### 
+             test loss: 0.003417, test accuracy: 93%
+#### epoch 41 ##### 
+             test loss: 0.003438, test accuracy: 93%
+#### epoch 42 ##### 
+             test loss: 0.003421, test accuracy: 93%
+#### epoch 43 ##### 
+             test loss: 0.003436, test accuracy: 93%
+#### epoch 44 ##### 
+             test loss: 0.003447, test accuracy: 93%
+#### epoch 45 ##### 
+             test loss: 0.003420, test accuracy: 93%
+#### epoch 46 ##### 
+             test loss: 0.003419, test accuracy: 93%
+#### epoch 47 ##### 
+             test loss: 0.003435, test accuracy: 93%
+#### epoch 48 ##### 
+             test loss: 0.003420, test accuracy: 93%
+#### epoch 49 ##### 
+             test loss: 0.003429, test accuracy: 93%
+#### epoch 50 ##### 
+             test loss: 0.003423, test accuracy: 93%
+test end. time 50.33195730099942 (s)
+avg_loss:0.0033537843570113184, acc:0.9264
+accuracy: 0.9264  precision: 0.9265186185012031  recall: 0.9264000000000001  f1: 0.9258057666613461
